@@ -1,4 +1,4 @@
-# Danny Arend's R Course_Answers of the Addtional Assignment of the First Assignment
+# Data Analysis with R
 #
 # copyright (c) 2022 - Danny Arend, Erkam Minsin
 # written by: Erkam Minsin
@@ -6,9 +6,7 @@
 # last modified: Nov 2022
 # first written: Nov 2022
 
-## A WORD OF ADVICE FOR PEOPLE WHO ARE INTERESTED IN CODING ##
-## Please let us be aware of the fact that coders who work structured (clean code, with spaces rather than tabs) have(up to) 20 percent more income.
-## Let us code clean, and reward clean coders.
+# Additional_Assignment_1
 
 setwd("C:\Users\erkam\R Learning\Danny_Arends_Course\Assignments")
 
