@@ -6,7 +6,7 @@
 # last modified: Nov 2022
 # first written: Nov 2022
 
-# Additional_Assignment_1
+# Assignment_1_Addition
 
 setwd("C:\Users\erkam\R Learning\Danny_Arends_Course\Assignments")
 
