@@ -8,8 +8,28 @@
 * The topics covered are as follows.
   * Assignment 1: 
     * R as a calculator
-    * Working with data types
+    * Types of data
+      * Logical, numeric, character, vector/list, matrix/data.frame 
     * Creating vectors and matrices
-    * Indexing vectors, matrices and lists
+    * Indexing data [1] and [[1]]
     * Matrix and data.frame functions
+    * seq, rep, 1:20
+  * Assignment 1 Addition:
     * Variables
+    * Control structures
+      * Statements and Expressions
+    * Brackets
+    * Escaping the inevitable
+    * Some randomness 
+   * Assignment 2:
+    * 
+  * Assignment 3:
+    * 
+  * Assignment 4:
+    *  
+  * Assignment 5:
+    * 
+  * Assignment 6:
+    * 
+  * Assignment 7:
+    * 
