@@ -1,4 +1,4 @@
-# Data Analysis with R
+# Learn Data Analysis with R
 
 + The files above were created during the dates specified in each file by 
   + listening to a **1680 mins (28 hrs) lecture** by [Danny Arends](https://dannyarends.nl/?) from Humboldt University in Berlin,
