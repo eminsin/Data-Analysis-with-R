@@ -5,4 +5,4 @@
 + In this course, we covered everything needed for Data Analysis with R with assignments.
 + The questions of the assignments are available in the PDF files, and the codes for the solutions are in the codes.r files above.
 * The topics covered as follows:
-** Assignment 1: 
+  * Assignment 1: 
