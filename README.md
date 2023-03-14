@@ -84,7 +84,7 @@
 ## Code
 + Scripted on: **Notepad++**
 + Executed on: **R 4.1.1** and **R Studio**
-+ Dependencies: **Standard R libraries**
++ Dependent on: **Standard R libraries**
 
 ## Author
 Erkam Minsin
