@@ -1,11 +1,11 @@
 # Data Analysis with R
 
-+ This file belongs to a 1680 mins (28 hrs) lecture by [Danny Arends](https://dannyarends.nl/?) from Humboldt University in Berlin. 
-+ The videos of the lecture are available on [Danny's youtube page](https://www.youtube.com/watch?v=fxmF4P_O_2c&list=PLhR2Go-lh6X6ZJnN4WQScB4qjO4GYTO0S).
++ This file belongs to a **1680 mins (28 hrs) lecture by [Danny Arends](https://dannyarends.nl/?)** from Humboldt University in Berlin. 
++ The videos of the lecture are available on **[Danny's youtube page](https://www.youtube.com/watch?v=fxmF4P_O_2c&list=PLhR2Go-lh6X6ZJnN4WQScB4qjO4GYTO0S)**.
 + In this course, we covered everything needed for Data Analysis with R with assignments.
 + The questions of the assignments are available in the PDF files, and the codes for the solutions are in the codes.r files above.
-* The topics covered are as follows.
-  * Assignment 1 and Addition: 
+* **The topics covered** are as follows.
+  * **Assignment 1 and Addition:** 
     * R as a calculator
     * Types of data
       * Logical, numeric, character, vector/list, matrix/data.frame 
@@ -13,7 +13,7 @@
     * Indexing data [1] and [[1]]
     * Matrix and data.frame functions
     * seq, rep, 1:20
-  * Assignment 2:
+  * **Assignment 2:**
     * Variables
     * Control structures
       * Statements and Expressions
@@ -21,14 +21,14 @@
     * Brackets
     * Escaping the inevitable
     * Some randomness 
-  * Assignment 3:
+  * **Assignment 3:**
     * Reading data
       * Tables, Text files, Binary files, text files line by line
       * Compressed files
      * Managing data
        * which, %in%, subset
      * Saving data in a long running analysis 
-  * Assignment 4:
+  * **Assignment 4:**
     * Descriptive univariate statistics
       * Central Tendency
         * Mean, Median, Mode
@@ -41,13 +41,13 @@
        * Boxplot
        * Histogram
        * Image/Heatmap
-  * Assignment 5:
+  * **Assignment 5:**
     * Create custom plots
       * Points
       * Scatter plots
       * Circles
       * Colors
-  * Assignment 6:
+  * **Assignment 6:**
     * Experimental design
       * Questions
       * Microarrays
@@ -58,7 +58,7 @@
       * Correlation
       * Multiple testing
     * Free microarray data
-  * Assignment 7:
+  * **Assignment 7:**
     * Algorithms as a concept
       * Design patterns
     * Recursion
