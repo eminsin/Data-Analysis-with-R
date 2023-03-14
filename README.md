@@ -10,8 +10,8 @@
 * Indexing data [1] and [[1]]
 * Matrix and data.frame functions
 * seq, rep, 1:20
-##### [Solution](https://github.com/eminsin/Learn-Data-Analysis-with-R/blob/main/codes1.r)
-##### [Solution_Addition](https://github.com/eminsin/Learn-Data-Analysis-with-R/blob/main/codes1addition.r)
+##### [Solution 1](https://github.com/eminsin/Learn-Data-Analysis-with-R/blob/main/codes1.r)
+##### [Solution 1_Addition](https://github.com/eminsin/Learn-Data-Analysis-with-R/blob/main/codes1addition.r)
 ### [Assignment 2](https://github.com/eminsin/Learn-Data-Analysis-with-R/blob/main/Assignment02-Moreintroduction.pdf):
 * Variables
 * Control structures
@@ -20,7 +20,7 @@
 * Brackets
 * Escaping the inevitable
 * Some randomness
-##### [Solution](https://github.com/eminsin/Learn-Data-Analysis-with-R/blob/main/codes2.r)
+##### [Solution 2](https://github.com/eminsin/Learn-Data-Analysis-with-R/blob/main/codes2.r)
 ### [Assignment 3](https://github.com/eminsin/Learn-Data-Analysis-with-R/blob/main/Assignment03-Data.pdf):
 * Reading data
   * Tables, Text files, Binary files, text files line by line
@@ -28,7 +28,7 @@
 * Managing data
   * which, %in%, subset
 * Saving data (in a long running analysis) 
-##### [Solution](https://github.com/eminsin/Learn-Data-Analysis-with-R/blob/main/codes3.r)
+##### [Solution 3](https://github.com/eminsin/Learn-Data-Analysis-with-R/blob/main/codes3.r)
 ### [Assignment 4](https://github.com/eminsin/Learn-Data-Analysis-with-R/blob/main/Assignment04-DescriptiveStatistics.pdf):
 * Descriptive univariate statistics
   * Central Tendency
@@ -42,14 +42,14 @@
   * Boxplot
   * Histogram
   * Image/Heatmap
-##### [Solution](https://github.com/eminsin/Learn-Data-Analysis-with-R/blob/main/codes4.r)    
+##### [Solution 4](https://github.com/eminsin/Learn-Data-Analysis-with-R/blob/main/codes4.r)    
 ### [Assignment 5](https://github.com/eminsin/Learn-Data-Analysis-with-R/blob/main/Assignment05-Plots.pdf):
 * Create custom plots
   * Points
   * Scatter plots
   * Circles
   * Colors
-##### [Solution](https://github.com/eminsin/Learn-Data-Analysis-with-R/blob/main/codes5.r)
+##### [Solution 5](https://github.com/eminsin/Learn-Data-Analysis-with-R/blob/main/codes5.r)
 ### [Assignment 6](https://github.com/eminsin/Learn-Data-Analysis-with-R/blob/main/Assignment06-StatisticalTesting.pdf):
 * Experimental design
   * Questions
@@ -61,13 +61,13 @@
   * Correlation
   * Multiple testing
 * Free microarray data
-##### [Solution](https://github.com/eminsin/Learn-Data-Analysis-with-R/blob/main/codes6.r)
+##### [Solution 6](https://github.com/eminsin/Learn-Data-Analysis-with-R/blob/main/codes6.r)
 ### [Assignment 7](https://github.com/eminsin/Learn-Data-Analysis-with-R/blob/main/Assignment07-AlgorithmsAndFunctions.pdf):
 * Algorithms as a concept
   * Design patterns
 * Recursion
   * Higher order functions
-##### [Solution](https://github.com/eminsin/Learn-Data-Analysis-with-R/blob/main/codes7.r)
+##### [Solution 7](https://github.com/eminsin/Learn-Data-Analysis-with-R/blob/main/codes7.r)
 
 
 
