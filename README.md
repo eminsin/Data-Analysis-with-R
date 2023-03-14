@@ -17,14 +17,30 @@
   * Assignment 1 Addition:
     * Variables
     * Control structures
-      * Statements and Expressions
+      * Statements and Expressions 
     * Brackets
     * Escaping the inevitable
     * Some randomness 
-   * Assignment 2:
-    * 
+  * Assignment 2:
+    * Reading data
+      * Tables, Text files, Binary files, text files line by line
+      * Compressed files
+     * Managing data
+       * which, %in%, subset
+     * Saving data in a long running analysis 
   * Assignment 3:
-    * 
+    * Descriptive univariate statistics
+      * Central Tendency
+        * Mean, Median, Mode
+      * Dispersion
+        * Range, Quantiles, Variance, Standard deviation
+        * Outliers
+      * Shape
+        * Skewness, Kurtosis
+     * Plots
+       * Boxplot
+       * Histogram
+       * Image/Heatmap
   * Assignment 4:
     *  
   * Assignment 5:
