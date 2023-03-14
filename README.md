@@ -10,8 +10,8 @@
 * Indexing data [1] and [[1]]
 * Matrix and data.frame functions
 * seq, rep, 1:20
-##### [Assignment 1](https://github.com/eminsin/Learn-Data-Analysis-with-R/blob/main/Assignment01-Introduction.pdf)
-##### [Solution 1](https://github.com/eminsin/Learn-Data-Analysis-with-R/blob/main/codes1.r) 
+* [Assignment 1](https://github.com/eminsin/Learn-Data-Analysis-with-R/blob/main/Assignment01-Introduction.pdf)
+* [Solution 1](https://github.com/eminsin/Learn-Data-Analysis-with-R/blob/main/codes1.r) 
 ### More Introduction:
 * Variables
 * Control structures
@@ -20,10 +20,10 @@
 * Brackets
 * Escaping the inevitable
 * Some randomness
-##### [Addition](https://github.com/eminsin/Learn-Data-Analysis-with-R/blob/main/Assignment01Addition.pdf)
-##### [Solution_Addition](https://github.com/eminsin/Learn-Data-Analysis-with-R/blob/main/codes1addition.r)
-##### [Assignment 2](https://github.com/eminsin/Learn-Data-Analysis-with-R/blob/main/Assignment02-Moreintroduction.pdf)
-##### [Solution 2](https://github.com/eminsin/Learn-Data-Analysis-with-R/blob/main/codes2.r)
+* [Addition](https://github.com/eminsin/Learn-Data-Analysis-with-R/blob/main/Assignment01Addition.pdf)
+* [Solution_Addition](https://github.com/eminsin/Learn-Data-Analysis-with-R/blob/main/codes1addition.r)
+* [Assignment 2](https://github.com/eminsin/Learn-Data-Analysis-with-R/blob/main/Assignment02-Moreintroduction.pdf)
+* [Solution 2](https://github.com/eminsin/Learn-Data-Analysis-with-R/blob/main/codes2.r)
 ### Data:
 * Reading data
   * Tables, Text files, Binary files, text files line by line
