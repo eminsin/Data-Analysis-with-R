@@ -1,5 +1,16 @@
 # Learn Data Analysis with R
 
+## Topics:
+
+### Assignment 1 and Addition:
+    * R as a calculator
+    * Types of data
+      * Logical, numeric, character, vector/list, matrix/data.frame 
+    * Creating vectors and matrices
+    * Indexing data [1] and [[1]]
+    * Matrix and data.frame functions
+    * seq, rep, 1:20
+    
 + The files above were created during the dates specified in each file by 
   + listening to a **1680 mins (28 hrs) lecture** by [Danny Arends](https://dannyarends.nl/?) from Humboldt University in Berlin,
   + scripting on **Notepad++** , executing on **R 4.1.1** and **R Studio** using the stardard libraries by **me, Erkam Minsin**.
