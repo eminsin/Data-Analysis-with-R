@@ -17,7 +17,8 @@
   * Assignment 2:
     * Variables
     * Control structures
-      * Statements and Expressions 
+      * Statements and Expressions
+    * Functions
     * Brackets
     * Escaping the inevitable
     * Some randomness 
@@ -42,8 +43,24 @@
        * Histogram
        * Image/Heatmap
   * Assignment 5:
-    *  
+    * Create custom plots
+      * Points
+      * Scatter plots
+      * Circles
+      * Colors
   * Assignment 6:
-    * 
+    * Experimental design
+      * Questions
+      * Microarrays
+    * Normalization
+    * Probability
+      * Student's t-test
+      * Normality assumption
+      * Correlation
+      * Multiple testing
+    * Free microarray data
   * Assignment 7:
-    *  
+    * Algorithms as a concept
+      * Design patterns
+    * Recursion
+      *  Higher order functions
