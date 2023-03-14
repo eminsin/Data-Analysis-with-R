@@ -38,10 +38,10 @@
     * Outliers
   * Shape
     * Skewness, Kurtosis
-  * Plots
-    * Boxplot
-    * Histogram
-    * Image/Heatmap
+* Plots
+  * Boxplot
+  * Histogram
+  * Image/Heatmap
 ##### [Solution](https://github.com/eminsin/Learn-Data-Analysis-with-R/blob/main/codes4.r)    
 ### [Assignment 5](https://github.com/eminsin/Learn-Data-Analysis-with-R/blob/main/Assignment05-Plots.pdf):
 * Create custom plots
