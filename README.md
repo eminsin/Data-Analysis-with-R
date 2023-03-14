@@ -10,8 +10,8 @@
 * Indexing data [1] and [[1]]
 * Matrix and data.frame functions
 * seq, rep, 1:20
-###### [Solution](https://github.com/eminsin/Learn-Data-Analysis-with-R/blob/main/codes1.r)
-###### [Solution_Addition](https://github.com/eminsin/Learn-Data-Analysis-with-R/blob/main/codes1addition.r)
+##### [Solution](https://github.com/eminsin/Learn-Data-Analysis-with-R/blob/main/codes1.r)
+##### [Solution_Addition](https://github.com/eminsin/Learn-Data-Analysis-with-R/blob/main/codes1addition.r)
  ### Assignment 2:
  * Variables
  * Control structures
