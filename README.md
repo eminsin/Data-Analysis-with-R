@@ -1,6 +1,6 @@
 # Data Analysis with R
 
-+ This file was scripted on **Notepad++** , executed on **R 4.1.1** using the stardard libraries by **me, Erkam Minsin**.
++ This file was scripted on **Notepad++** , executed on **R 4.1.1** and **R Studio** using the stardard libraries by **me, Erkam Minsin**.
 + It belongs to a **1680 mins (28 hrs) lecture** by [Danny Arends](https://dannyarends.nl/?) from Humboldt University in Berlin. 
 + The videos of the lecture are available on [Danny's youtube page](https://www.youtube.com/watch?v=fxmF4P_O_2c&list=PLhR2Go-lh6X6ZJnN4WQScB4qjO4GYTO0S).
 +  Everything needed for Data Analysis with R is taught in this course and practiced with assignments.
