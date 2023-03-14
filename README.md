@@ -4,7 +4,7 @@
 + It belongs to a **1680 mins (28 hrs) lecture** by [Danny Arends](https://dannyarends.nl/?) from Humboldt University in Berlin. 
 + The videos of the lecture are available on [Danny's youtube page](https://www.youtube.com/watch?v=fxmF4P_O_2c&list=PLhR2Go-lh6X6ZJnN4WQScB4qjO4GYTO0S).
 +  Everything needed for Data Analysis with R is taught in this course and practiced with assignments.
-+ The questions of the assignments are available in the PDF files, and the codes for the solutions are in the codes.r files above.
++ The questions of the assignments are available in the PDF files, and the codes for the solutions in the codes.r files above.
 * **The topics covered** are as follows.
   * **Assignment 1 and Addition:** 
     * R as a calculator
