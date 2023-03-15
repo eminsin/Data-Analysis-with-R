@@ -17,7 +17,7 @@ Erkam Minsin
 + Executed on: **R 4.1.1** and **R Studio**
 + Dependent on: **Standard R libraries**
 
-## Topics and Documents:
+## Topics and Documents
 
 ### Introduction:
 * R as a calculator
