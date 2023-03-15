@@ -1,5 +1,22 @@
 # Data Analysis with R
 
+## Description 
+
+## Author
+Erkam Minsin
++ Please reach: [LinkedIn](https://www.linkedin.com/in/erkam-minsin-msc-37537514a/)
+
+## Resource
++ A **1680 mins (28 hrs) lecture** by [Danny Arends](https://dannyarends.nl/?) from Humboldt University in Berlin.
++ The videos of the lecture are available on [Danny's youtube page](https://www.youtube.com/watch?v=fxmF4P_O_2c&list=PLhR2Go-lh6X6ZJnN4WQScB4qjO4GYTO0S).
+
+## Effort
+
+## Code
++ Scripted on: **Notepad++**
++ Executed on: **R 4.1.1** and **R Studio**
++ Dependent on: **Standard R libraries**
+
 ## Topics:
 
 ### Introduction:
@@ -76,17 +93,4 @@
   * Higher order functions
 ##### [Assignment 7](https://github.com/eminsin/Learn-Data-Analysis-with-R/blob/main/Assignment07-AlgorithmsAndFunctions.pdf)
 ##### [Solution 7](https://github.com/eminsin/Learn-Data-Analysis-with-R/blob/main/codes7.r)
-
-## Resource
-+ A **1680 mins (28 hrs) lecture** by [Danny Arends](https://dannyarends.nl/?) from Humboldt University in Berlin.
-+ The videos of the lecture are available on [Danny's youtube page](https://www.youtube.com/watch?v=fxmF4P_O_2c&list=PLhR2Go-lh6X6ZJnN4WQScB4qjO4GYTO0S).
-
-## Code
-+ Scripted on: **Notepad++**
-+ Executed on: **R 4.1.1** and **R Studio**
-+ Dependent on: **Standard R libraries**
-
-## Author
-Erkam Minsin
-+ Please reach: [LinkedIn](https://www.linkedin.com/in/erkam-minsin-msc-37537514a/)
 
