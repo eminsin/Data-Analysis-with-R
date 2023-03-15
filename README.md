@@ -1,4 +1,4 @@
-# Learn Data Analysis
+# Learn R for Data Analysis
 
 ## Description 
 
